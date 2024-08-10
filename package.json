@@ -1,0 +1,26 @@
+{
+  "name": "book-keeping-management-system",
+  "version": "1.0.0",
+  "description": "book record mgt sys",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abdulrahman843/bookKeepingManagementSystem.git"
+  },
+  "author": "Abdulrahman843",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abdulrahman843/bookKeepingManagementSystem/issues"
+  },
+  "homepage": "https://github.com/Abdulrahman843/bookKeepingManagementSystem#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
